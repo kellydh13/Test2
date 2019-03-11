@@ -3,4 +3,5 @@ y=40+2*x+rnorm(10,0,5)
 plot(x,y)
 summary(x)
 summary(y)
-sum(x+y)
+mean(x)
+
